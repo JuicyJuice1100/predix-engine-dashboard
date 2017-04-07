@@ -1,0 +1,19 @@
+{
+  "name": "GEHC_Hackathon",
+  "version": "1.0.0",
+  "description": "Hackathon NodeJS Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.build.ge.com/212326570/GEHCHackathon/tree/master/Node%20Server"
+  },
+  "author": "212326570",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "request": "^2.78.0"
+  }
+}
